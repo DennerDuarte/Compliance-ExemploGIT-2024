@@ -1,4 +1,4 @@
-
+//O palmeiras não tem mundial
 public class Produto {
 
 	private double peso;
