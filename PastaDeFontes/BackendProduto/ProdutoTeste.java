@@ -1,3 +1,5 @@
+//Classe de controle do produto da empresa
+
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
